@@ -1,6 +1,9 @@
 <!--타이틀 부분-->
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&text=%20Who%20ever%20knows&animation=blink)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=%20Who%20ever%20knows&animation=blink" alt="header">
+</div>
+
 
 
 <!--내용 부분-->
