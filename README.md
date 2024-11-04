@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📫 Contact 📫
-![D0_u_know](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![D0_u_know](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=D0_u_know&logoColor=white)
 
 </div>
 
