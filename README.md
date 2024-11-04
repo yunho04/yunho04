@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&text=Who%20ever%20knows&animation=blink)
+  ![header](https://capsule-render.vercel.app/api?type=venom&text=%20Who%20ever%20knows&animation=blink)
 
 
 <!--내용 부분-->
